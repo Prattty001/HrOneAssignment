@@ -9,7 +9,7 @@ It allows users to dynamically construct a JSON schema by adding, editing, and n
 ## 🚀 Demo
 
 🔗 Live Link: [https://hroneassignmentfront.netlify.app/](https://hroneassignmentfront.netlify.app/)  
-📁 GitHub Repository: [https://github.com/yourusername/hrone-schema-builder](https://github.com/yourusername/hrone-schema-builder)
+📁 GitHub Repository: [https://github.com/Prattty001/HrOneAssignment/tree/main](https://github.com/Prattty001/HrOneAssignment/tree/main)
 
 ---
 
@@ -24,19 +24,14 @@ It allows users to dynamically construct a JSON schema by adding, editing, and n
 
 ---
 
-## 📸 Preview
 
-> Here's a screenshot or video showing the working UI  
-(Add your own GIF or screenshot here, or embed video link if you like)
-
----
 
 ## 🛠️ Tech Stack
 
 - **ReactJS (Hooks)**
 - **UUID** for unique IDs
 - **Plain CSS**
-- *(Optional Enhancement: Ant Design / ShadCN integration)*
+
 
 ---
 
@@ -44,5 +39,5 @@ It allows users to dynamically construct a JSON schema by adding, editing, and n
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/hrone-schema-builder.git
-   cd hrone-schema-builder
+   git clone https://github.com/Prattty001/HrOneAssignment/tree/main
+
