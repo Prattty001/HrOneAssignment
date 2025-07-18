@@ -1,12 +1,48 @@
-# React + Vite
+# 🧩 JSON Schema Builder – HROne Frontend Internship Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **JSON Schema Builder** built using **ReactJS**, created as part of the Frontend Intern Hiring Task for **HROne**.
 
-Currently, two official plugins are available:
+It allows users to dynamically construct a JSON schema by adding, editing, and nesting fields, with real-time preview of the generated schema.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 Live Link: [https://hroneassignmentfront.netlify.app/](https://hroneassignmentfront.netlify.app/)  
+📁 GitHub Repository: [https://github.com/yourusername/hrone-schema-builder](https://github.com/yourusername/hrone-schema-builder)
+
+---
+
+## 📌 Features
+
+- ✅ Add new fields dynamically
+- ✅ Edit the key (field name)
+- ✅ Select field type: `String`, `Number`, or `Nested`
+- ✅ Support for recursive nested fields (Nested inside Nested)
+- ✅ Delete any field at any level
+- ✅ Real-time JSON schema preview panel
+
+---
+
+## 📸 Preview
+
+> Here's a screenshot or video showing the working UI  
+(Add your own GIF or screenshot here, or embed video link if you like)
+
+---
+
+## 🛠️ Tech Stack
+
+- **ReactJS (Hooks)**
+- **UUID** for unique IDs
+- **Plain CSS**
+- *(Optional Enhancement: Ant Design / ShadCN integration)*
+
+---
+
+## 🔧 Installation & Run Locally
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yourusername/hrone-schema-builder.git
+   cd hrone-schema-builder
